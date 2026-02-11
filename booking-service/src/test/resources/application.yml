@@ -1,0 +1,6 @@
+eureka:
+  client:
+    enabled: false
+security:
+  jwt:
+    secret: my-secret-key-my-secret-key-my-secret-key-123
